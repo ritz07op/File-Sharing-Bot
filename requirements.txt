@@ -1,12 +1,7 @@
-# --- For Bot Working --------- #
 pyrogram==2.0.106
-TgCrypto==1.2.3
+TgCrypto
 pyromod==1.5
-python-dotenv==1.0.0
-
-# --- For Database ------------ #
-pymongo==4.5.0
-dnspython==2.3.0
-
-# --- For Web Response ------- #
-aiohttp==3.8.5
+python-dotenv
+pymongo
+dnspython
+aiohttp
